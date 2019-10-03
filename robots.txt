@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooxuuthooy.massimopalmieri.com/sitemap.xml
